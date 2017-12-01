@@ -8,7 +8,6 @@ conversation = [
     "Hello",
     "Hi there!",
     "How are you doing?",
-    "I'm doing great.",
     "That is good to hear",
     "Thank you.",
     "You're welcome."
@@ -17,5 +16,6 @@ conversation = [
 chatbot.set_trainer(ListTrainer)
 chatbot.train(conversation)
 
-response = chatbot.get_response("Good morning");
+message = input('Your message:\n')
+response = chatbot.get_response(message);
 print(response); 
