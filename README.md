@@ -1,2 +1,3 @@
-# SocialAI
-The intelligence witch will serve us
+# SocialAI - AI SelfLearning smartbot for dating apps
+
+
