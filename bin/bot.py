@@ -1,6 +1,8 @@
 from chatterbot.trainers import ListTrainer
 from chatterbot import ChatBot
 import json
+import logging
+
 
 class Bot:
     def __init__(self, Name):
