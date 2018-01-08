@@ -1,4 +1,5 @@
-# ![](/img/Badoo.png) SocialAI - AI SelfLearning smartbot for dating apps
+# <img src="/img/Badoo.png" alt="Logo" height="90" width="90"></img> SocialAI - AI SelfLearning smartbot for dating apps
+
 
 Do your own business, while your pocket bot is making new contacts
 
