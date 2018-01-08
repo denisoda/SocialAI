@@ -4,7 +4,9 @@
 Do your own business, while your pocket bot is making new contacts
 
 
-
 ![](/img/Screenshot0.png?raw=true "Screen0")
+
+  
+It can be great data science gathering tool.
 
 # New features will be soon :)
