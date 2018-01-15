@@ -9,4 +9,8 @@ Do your own business, while your pocket bot is making new contacts
   
 It can be great data science gathering tool.
 
+<h1>Contributing</h1>
+Read our <a href="Countributing.md">Countibuting<a/>
+
 # New features will be soon :)
+
