@@ -14,4 +14,4 @@ Read our <a href="Contributing.md">Countibuting<a/>
 
 # New features will be soon :)
 
-<img src="/img/links.png" alt="Links></img>
+<img src="/img/links.png" alt="Links"></img>
